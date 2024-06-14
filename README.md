@@ -3,6 +3,7 @@
 **`Fklstack developer (React, Node.js) Seeking Opportunities`**
 
 ---
+I’m a passionate full-stack developer with a love for mountain trips, rock climbing, and extreme sports. Through my involvement with the scouting organization Plast, I not only develop young people but also continuously develop myself. I thrive on coding, especially when the project idea is compelling and motivates me to bring it to life.
 
 - 🌱 Student constantly learning new things.
 - 🧗‍♂️ Passionate about rock climbing and active tourism.
@@ -10,30 +11,24 @@
 
 ---
 
-### My Skills:
+### 🧑‍💻Languages and Tools:
 
-- **Core Technologies:**
-  - Node.js
-  - React.js
-  - JavaScript / TypeScript
-  - HTML5 / CSS / SCSS
-
-- **Backend:**
-  - ExpressJS
-  - Sequelize / Mongoose
-  - PostgreSQL / MySQL
-
-- **Frontend:**
-  - Redux / Router
-  - Bootstrap / Tailwind
-  - Figma
-
-- **Other:**
-  - REST API / WebSocket
-  - Git
-  - Asynchronous Programming
-  - Responsive Design
-  - Strong Communication Skills
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="SCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="ExpressJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="Sequelize" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+<br />
 
 ---
 
@@ -42,9 +37,12 @@
 
 ---
 
-### A Little More About Me:
-I am a student and full-stack developer actively seeking growth and development opportunities. I am passionate about rock climbing and active tourism, and I have been a member of Plast for 10 years. Confident in my skills and ready for new challenges in the IT world.
+### 📊 Stats
 
----
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
