@@ -1,6 +1,6 @@
 # 🧙🏼‍♂️ Komanitskiy Yurii 🧝🏼
 
-**`Fklstack developer (React, Node.js) Seeking Opportunities`**
+**`Fullstack developer (React, Node.js) Seeking Opportunities`**
 
 ---
 I’m a passionate full-stack developer with a love for mountain trips, rock climbing, and extreme sports. Through my involvement with the scouting organization Plast, I not only develop young people but also continuously develop myself. I thrive on coding, especially when the project idea is compelling and motivates me to bring it to life.
